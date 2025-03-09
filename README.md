@@ -8,3 +8,8 @@ It uses square waves to sound like an 8bit game. The code to generate sine waves
 - There is a Makefile, so all you need to do is: in the project directory, run `make`. This will generate the .wav files and compile the code.
 - Then run `./piano`
 - `q` quits the program. Good luck
+
+### Demo
+
+https://github.com/user-attachments/assets/88cdb0fb-efe2-47f0-9bb3-6a4064518417
+
